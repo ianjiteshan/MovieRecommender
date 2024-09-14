@@ -89,7 +89,7 @@ streamlit run app.py
 1. **Select a movie**: Use the dropdown in the Streamlit app to select a movie from the database.
 2. **Get recommendations**: The app will display the top 5 movies most similar to your selection.
 
-### Try the live version here: [Heroku App Link](https://your-app.herokuapp.com)
+### Try the live version here: [Heroku App Link]((https://movierecommendsys.herokuapp.com/))
 
 ---
 
