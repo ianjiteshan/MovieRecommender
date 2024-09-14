@@ -63,7 +63,7 @@ These features are used to compute similarities between movies.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/movie-recommender-system.git
+git clone https://github.com/ianjiteshan/MovieRecommender.git
 cd movie-recommender-system
 ```
 
