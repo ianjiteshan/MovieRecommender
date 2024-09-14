@@ -153,4 +153,9 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
+
 ### Enjoy discovering new movies!
+#Working Demo
+<img width="1680" alt="Input name" src="https://github.com/user-attachments/assets/55001723-29a6-44d6-9428-5e1a48b76e57">
+<img width="1680" alt="Check for recommendations" src="https://github.com/user-attachments/assets/9fb72444-4aa7-4f12-aa4f-25e127b42eec">
+<img width="1672" alt="Get recommendations" src="https://github.com/user-attachments/assets/162eaa6e-f919-4d3e-a7b1-25c4d1c47bf3">
